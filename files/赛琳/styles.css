@@ -206,9 +206,10 @@
 .u110_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:92px;
-  width:396px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 .u111_img {
