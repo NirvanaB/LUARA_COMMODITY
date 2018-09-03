@@ -158,25 +158,16 @@
   height:1px;
 }
 #u403 {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:414px;
-  height:604px;
-  overflow:hidden;
 }
 #u403_state0 {
-  border-width:0px;
-  position:absolute;
+  position:relative;
   left:0px;
   top:0px;
-  width:414px;
-  height:604px;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
+  width:400px;
+  height:1432px;
   background-image:none;
 }
 #u403_state0_content {
